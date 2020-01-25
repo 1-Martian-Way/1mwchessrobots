@@ -1,0 +1,90 @@
+int OD_encoder(int od)
+{
+  if (od == 0) {return 0;} 
+  if (od == 1) {return 1;} 
+  if (od == 2) {return 2;} 
+  if (od == 3) {return 3;} 
+  if (od == 4) {return 4;} 
+  if (od == 5) {return 5;} 
+  if (od == 6) {return 6;} 
+  if (od == 7) {return 7;} 
+  
+  ///////////// ROW 1 ///////////////////
+  
+  if (od == 8) {return 16;} 
+  if (od == 9) {return 17;} 
+  if (od == 10) {return 18;} 
+  if (od == 11) {return 19;} 
+  if (od == 12) {return 20;} 
+  if (od == 13) {return 21;} 
+  if (od == 14) {return 22;} 
+  if (od == 15) {return 23;} 
+  
+  ///////////// ROW 2 ///////////////////
+  
+  if (od == 16) {return 32;} 
+  if (od == 17) {return 33;} 
+  if (od == 18) {return 34;} 
+  if (od == 19) {return 35;} 
+  if (od == 20) {return 36;} 
+  if (od == 21) {return 37;} 
+  if (od == 22) {return 38;} 
+  if (od == 23) {return 39;} 
+  
+  ///////////// ROW 3 ///////////////////
+  
+  if (od == 24) {return 48;} 
+  if (od == 25) {return 49;} 
+  if (od == 26) {return 50;} 
+  if (od == 27) {return 51;} 
+  if (od == 28) {return 52;} 
+  if (od == 29) {return 53;} 
+  if (od == 30) {return 54;} 
+  if (od == 31) {return 55;} 
+  
+  ///////////// ROW 4 ///////////////////
+  
+  if (od == 32) {return 64;} 
+  if (od == 33) {return 65;} 
+  if (od == 34) {return 66;} 
+  if (od == 35) {return 67;} 
+  if (od == 36) {return 68;} 
+  if (od == 37) {return 69;} 
+  if (od == 38) {return 70;} 
+  if (od == 39) {return 71;} 
+  
+  ///////////// ROW 5 ///////////////////
+  
+  if (od == 40) {return 80;} 
+  if (od == 41) {return 81;} 
+  if (od == 42) {return 82;} 
+  if (od == 43) {return 83;} 
+  if (od == 44) {return 84;} 
+  if (od == 45) {return 85;} 
+  if (od == 46) {return 86;} 
+  if (od == 47) {return 87;} 
+  
+  ///////////// ROW 6 ///////////////////
+  
+  if (od == 48) {return 96;} 
+  if (od == 49) {return 97;} 
+  if (od == 50) {return 98;} 
+  if (od == 51) {return 99;} 
+  if (od == 52) {return 100;} 
+  if (od == 53) {return 101;} 
+  if (od == 54) {return 102;} 
+  if (od == 55) {return 103;} 
+  
+  ///////////// ROW 7 ///////////////////
+  
+  if (od == 56) {return 112;} 
+  if (od == 57) {return 113;} 
+  if (od == 58) {return 114;} 
+  if (od == 59) {return 115;} 
+  if (od == 60) {return 116;} 
+  if (od == 61) {return 117;} 
+  if (od == 62) {return 118;} 
+  if (od == 63) {return 119;} 
+  
+  return 0;
+}
