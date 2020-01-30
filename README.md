@@ -2,7 +2,7 @@
 1MW Chess Robots
 
 About:
-This repo contains the source code to RoboTeamX (later renamed to 1MW Chess Robots).
+This repo contains the source code to RoboTeamX Chess Robots (later renamed to 1MW Chess Robots).
 
 The Story:
 The 1 Martian Way RoboTeamX Chess Robots (RCR) were invented by Karan Kamdar while he was getting his Masters' Degree in Artificial Intelligence at the University of California, Irvine. 
