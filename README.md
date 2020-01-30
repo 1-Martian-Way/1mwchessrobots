@@ -24,6 +24,8 @@ https://youtu.be/vZvZ8Fo9TGc
 
 https://youtu.be/mp0dxrH3pf4
 
+https://youtu.be/mgiYL3ZvSp8
+
 Future Work:
 The initial foundation and demonstration of our team of autonomous chess playing robots has been done and now the idea is to make it even more sophisticated and intelligent to compete against a team of human players.
 We invite everyone who's interested in this project to learn about it and contribute to it.
