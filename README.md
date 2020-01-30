@@ -17,7 +17,7 @@ Since then RCR has been acquired as a brand by 1 Martian Way Corporation (1MW), 
 The source code was officially made open source on 26th Jan, 2020.
 
 Key Feature:
-The robots operate as a team and the complexity of computation is distributed amongst them. The idea is to use the chess game as a gamified platform to demonstrate how teams of robots can tackle a host of challenging tasks in different environments.
+The robots operate as a team and the complexity of computation is distributed amongst them i.e. the chess engine itself along with all other supporting computation and algorithms are distributed among the robots. The robots communicate in the form of a mesh network wirelessly constantly making sure that the integrity of data sent and received is correct. The idea is to use the chess game as a gamified platform to demonstrate how teams of robots can tackle a host of challenging tasks in different environments.
 
 Videos from TV Media:
 https://youtu.be/vZvZ8Fo9TGc
